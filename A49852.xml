@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Judgment brought forth unto victory, and mercy kissing j[udgm]ent being t[he] work and mercy of God (upon my soul) which  conduceth to his praise : also a tender invitation of love unto the professors and to the prophane, to come unto Christ that they may have life  / written in the fear of the Lord, and as moved by his Holy Spirit through his servant, Francis Lea.</title>
+            <author>Lea, Francis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49852</idno>
+            <idno type="STC">Wing L764</idno>
+            <idno type="STC">ESTC R41437</idno>
+            <idno type="EEBO-CITATION">31355349</idno>
+            <idno type="OCLC">ocm 31355349</idno>
+            <idno type="VID">110414</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49852)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110414)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1743:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Judgment brought forth unto victory, and mercy kissing j[udgm]ent being t[he] work and mercy of God (upon my soul) which  conduceth to his praise : also a tender invitation of love unto the professors and to the prophane, to come unto Christ that they may have life  / written in the fear of the Lord, and as moved by his Holy Spirit through his servant, Francis Lea.</title>
+                  <author>Lea, Francis.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (2nd ed.)</note>
+                  <note>Imperfect: stained and defaced, p. 31 repaired; best copy available for photographing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conversion --  Quaker authors.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110414:1" rendition="simple:additions"/>
+            <p>Judgment Brought forth unto VICTORY, AND <hi>Mercy</hi> kiſsing <hi>Judgment;</hi> BEING THE VVORK and MERCY of God, (upon my Soul) which conduceth to his Praiſe.</p>
+            <p>Alſo a Tender Invitation of <hi>Love</hi> unto the <hi>Pro<g ref="char:EOLhyphen"/>feſſors,</hi> and to the <hi>Prophane;</hi> to come unto <hi>Chriſt,</hi> that they may have <hi>Life.</hi>
+            </p>
+            <p>Written in the Fear of the Lord, and as moved by his holy Spirit through his Servant, <hi>Francis Lea.</hi>
+            </p>
+            <q>
+               <p>For we have not followed cunning deviſed Fables, when we made known unto you the Power and Coming of our Lord Jeſus Chriſt; but were Eye-witneſſes of his Ma<g ref="char:EOLhyphen"/>jeſty— That which we have ſeen and heard declare we unto you, that ye alſo may have Fellowſhip with us; and truly our Fellowſhip is with the Father, and with his Son Chriſt Jeſus.</p>
+            </q>
+            <p>Printed in the year, 1671.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:110414:2"/>
+            <pb facs="tcp:110414:2"/>
+            <head>To the Reader.</head>
+            <p>HEre all Prieſts, Pro<g ref="char:EOLhyphen"/>feſſors and Prophane may ſee (as in a Glaſs) their own Spirit, which he lived in, while he remain'd amongſt them; whom now the Lord hath of his free Love pluckt out of the Fire as a Brand. And ſo read this Book over, with a ſeri<g ref="char:EOLhyphen"/>ous
+<pb facs="tcp:110414:3"/>mind, in the Fear of the Lord; and with the ſame ſeriouſneſs, Conſider your conditions, wherein he hath left you, (for you are in the ſelf-ſame condition and ſtate as he ſometime was in) that ſo you may Repent, &amp; come out of it, leaſt you ſin out your time, and there be no more Space for Repen<g ref="char:EOLhyphen"/>tance, when time ſhall be no more.</p>
+            <closer>
+               <signed>J. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:110414:3"/>
+            <head>JUDGMENT Brought forth unto VICTORY, &amp;c.</head>
+            <p>I Could willingly have forborn wri<g ref="char:EOLhyphen"/>ting, did not the <hi>Love</hi> of God <hi>con<g ref="char:EOLhyphen"/>ſtrain me</hi> thereunto; and becauſe I have formerly walked as one of the <hi>Vileſt</hi> among the <hi>Sons</hi> of men; therefore is it laid upon me to declare ſomething con<g ref="char:EOLhyphen"/>cerning the ſame: as alſo to demonſtrate, and declare unto others, the <hi>Work and Mercy</hi> of the Lord towards me; by viſit<g ref="char:EOLhyphen"/>ing me with his <hi>Everlaſting Lovingkind<g ref="char:EOLhyphen"/>neſs,</hi> and the <hi>Tender drawings</hi> of his <hi>un<g ref="char:EOLhyphen"/>ſpeakable Love.</hi>
+            </p>
+            <p>In dayes by paſt when I knew not the Lord, but walked in diſobedience unto him, who in my Infancy, many times cauſed Tenderneſs to ariſe in me; inſo<g ref="char:EOLhyphen"/>much <hi>that I often with teares beſought the
+<pb n="6" facs="tcp:110414:4"/>Lord, to Lead, and Guide me in his Way; and if at any time he did ſee me erring therefrom; that he would ſend his affictions to be as a wall, to ſtop me in my evil walk<g ref="char:EOLhyphen"/>ing:</hi> Yet notwithſtanding ſuch deſires did often ariſe in me, <hi>I lived</hi> and <hi>walked</hi> in <hi>diſobedience,</hi> and <hi>Rebellion</hi> againſt the Lord; who ſent his <hi>Afflictions gradually</hi> upon me; ſometimes <hi>ſtripping</hi> me of <hi>one thing,</hi> and ſometimes of <hi>another;</hi> which makes me to ſay as <hi>David</hi> once did; <hi>be<g ref="char:EOLhyphen"/>fore I was afflicted I went aſtray, but now (Lord) have I kept thy word.</hi>
+            </p>
+            <p>As words are to ſhort to ſet forth, and declare the <hi>Lovingkindnes</hi> of the <hi>Lord</hi> to<g ref="char:EOLhyphen"/>wards me; ſo muſt I with <hi>ſhame</hi> and <hi>confuſion of face ſay,</hi> that they are alſo to ſhort to demonſtra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e unto others, the <hi>hor<g ref="char:EOLhyphen"/>rid Tranſgreſsions</hi> and <hi>great Iniquities,</hi> which I have <hi>committed</hi> againſt the <hi>Lord,</hi> whoſe <hi>Patience</hi> and <hi>Long ſuffering,</hi> hath been <hi>great</hi> towards <hi>me;</hi> even in <hi>that day</hi> and <hi>time, when I was walking about the Brinks of Hell:</hi> Yea, <hi>when my feet took hold
+<pb n="7" facs="tcp:110414:4"/>on Hell, and my foot-ſteps on the Chambers of Death: ſo that there was but a ſmall moment, between me and Eternal Flames:</hi> and <hi>had not the Lord (who is rich in Mercy)</hi> ſpared me at that time, but cut me off, as juſtly he might have done — <hi>Eternal Flames would have been my Lot, and End<g ref="char:EOLhyphen"/>leſs Torments my Portion; and my habi<g ref="char:EOLhyphen"/>tation muſt have been with the Damned, and Tormented for ever.</hi>
+            </p>
+            <p>But I cannot Omit, but muſt particu<g ref="char:EOLhyphen"/>larly mention, this one <hi>evil,</hi> and <hi>ever to be abhorr'd</hi> paſſage of mine. When I had long lived after <hi>the Luſt of the Fleſh, the Luſt of the Eye,</hi> &amp; <hi>the Pride of Life:</hi> and had been <hi>wallowing</hi> in the <hi>Pleaſures</hi> and <hi>Vani<g ref="char:EOLhyphen"/>ties</hi> of this evil <hi>World;</hi> and the <hi>Lord</hi> therefore having ſtrip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me of my out<g ref="char:EOLhyphen"/>ward eſtate, which I knew not then how to uſe; but was ſpending it in <hi>Riotous Living:</hi> Now after this evil manner and courſe of Life I continued, until I had nor where-withall to live as I had for<g ref="char:EOLhyphen"/>merly done; and not being willing to
+<pb n="8" facs="tcp:110414:5"/>Condeſcend to live after a mean and low condition; and having heard, that <hi>ſome</hi> by <hi>Contracting with,</hi> and <hi>Selling their Souls</hi> to the <hi>Devil;</hi> was ſupplied from him, with ſuch things as they deſired: then I often pondered theſe things in my mind; and the <hi>Enemy</hi> taking all advantages as poſſibly he could; I oftentimes was in much ſolitarineſs, and ſadneſs, to think how I had formerly lived, and now to be ſtript of all: — <hi>whereupon I made a Re<g ref="char:EOLhyphen"/>ſolution in my heart, to Contract with, and Sell my Immortal Soul unto the Devil: upon this Condition; that I ſhould be fur<g ref="char:EOLhyphen"/>niſhed with what things ſoever I deſired, whilſt I lived: and oftentimes, when I was alone by my ſelf; did I call unto, and upon the Devil, for the very end, and pur<g ref="char:EOLhyphen"/>poſe aforeſaid; and did uſe all wayes and Meanes that I could think on, to obtain my wicked deſire;</hi> but the <hi>Lord</hi> was pleas'd to <hi>prevent</hi> this <hi>evil deſign</hi> of mine; though I muſt ſay <hi>to my own ſhame,</hi> (but to the <hi>Honour and Glory of God</hi> who <hi>pre<g ref="char:EOLhyphen"/>vented
+<pb n="9" facs="tcp:110414:5"/>me therein</hi>) that <hi>none</hi> evermore <hi>Deſired</hi> and <hi>Endeavoured</hi> to Sell their <hi>Im<g ref="char:EOLhyphen"/>mortal Souls</hi> for the <hi>Tranſitory</hi> and <hi>Fading Pleaſures,</hi> and <hi>Vanitie's</hi> of this <hi>evil World</hi> then I once did; not Conſidering that ſaying: <hi>What would it profit a man to gain the whole World, and to loſe his own (Pretious and immortal) Soul.</hi>
+            </p>
+            <p>Now when I had thus <hi>wickedly</hi> ſpent <hi>my time;</hi> and <hi>lived</hi> as the <hi>Prodigal</hi> who <hi>ſpent</hi> his <hi>portion</hi> with <hi>riotous living;</hi> then I ſought to <hi>joyn my ſelf,</hi> ſometimes to <hi>this Profeſſion,</hi> and ſometimes to <hi>that;</hi> and would fain have ſate down under this <hi>Form,</hi> and the other <hi>Profeſſion;</hi> thinking thereby, to have Obtained <hi>Sa<g ref="char:EOLhyphen"/>tiſfaction</hi> unto my <hi>Hungry Soul;</hi> but, a<g ref="char:EOLhyphen"/>las, <hi>I found</hi> that their <hi>Husky Doctrines could not ſatiſfie;</hi> nor their <hi>Sin-Soothing Prin<g ref="char:EOLhyphen"/>ciples give Reſt to the Weary Soul:</hi> For oftentimes <hi>this cry</hi> unto the <hi>Lord,</hi> riſe in me: <hi>O give me Chriſt, or elſe I dye;</hi> and with tears did I often <hi>ſeek</hi> the <hi>Lord;</hi> and <hi>beſought him</hi> to manifeſt the <hi>Way</hi> of
+<pb n="10" facs="tcp:110414:6"/>
+               <hi>Truth</hi> unto me: <hi>and the Lord who is rich in Mercy, and full of goodneſs and Truth; heard the Cry of his own, and reached forth his Arm of Power; which he made bare for my Salvation, in a needful day and acceptable time.</hi>
+            </p>
+            <div type="part">
+               <head>The manner of my Convincement.</head>
+               <p>
+                  <hi>AS I was reading an Anſwer, which was written</hi> (by that faithful Servant of the Lord, <hi>George Whitehead) unto a</hi> perverſe, Falſe <hi>and</hi> Scandalous Pamphlet, <hi>written by one</hi> William Burnet <hi>againſt the</hi> Principles <hi>of</hi> Truth, <hi>held by the</hi> People of the Lord, <hi>reproachfully called</hi> Quakers; <hi>as I was reading the ſaid Anſwer</hi> I heard the Voice <hi>of the</hi> Eternal Son of God, <hi>to ſpeak</hi> on this wiſe — This is the Truth con<g ref="char:EOLhyphen"/>fer not with Fleſh and Blood, <hi>but when he</hi> uttered his Voice <hi>the Earth</hi> trembled, <hi>and the</hi> Foundations thereof <hi>were</hi> ſo terribly ſhaken; <hi>that</hi> (Praiſed be the Name of the
+<pb n="11" facs="tcp:110414:6"/>Lord) <hi>they</hi> never came together <hi>any more and</hi> Gods Pretious <hi>and</hi> Everlaſting Truth, <hi>which was after</hi> this manner <hi>made known</hi> unto me, I immediately received <hi>in the</hi> love of it: <hi>without</hi> Conferring, <hi>or</hi> Conſulting with Fleſh and Blood.</p>
+               <p>
+                  <hi>Now no ſooner had the Lord</hi> opened <hi>my</hi> dark underſtanding; <hi>and in ſome mea<g ref="char:EOLhyphen"/>ſure</hi> revealed <hi>his</hi> Righteous Judgments <hi>againſt the</hi> Man of Sin: <hi>and</hi> poured forth his fierce Wrath and Indignation <hi>upon the</hi> Worker of Iniquity: <hi>But this</hi> old Ene<g ref="char:EOLhyphen"/>my of Mankind, <hi>ſought by all</hi> Wayes and Means Imaginable, to <hi>draw me from that</hi> pure manifeſtation of truth, <hi>which the</hi> Lord <hi>in meaſure, had made known unto me: and ſo</hi> many and great were his Snares and and Wiles; <hi>that I often</hi> Cryed <hi>unto the</hi> Lord, <hi>that he would</hi> Preſerve me Faith-full, and give <hi>me</hi> Strength <hi>to withſtand the</hi> Adverſary <hi>of</hi> my Soul: <hi>And ear<g ref="char:EOLhyphen"/>neſtly did</hi> I beſeech <hi>the</hi> Lord, <hi>to</hi> pour forth <hi>his</hi> Righteous Judgments<g ref="char:punc">▪</g> 
+                  <hi>upon</hi> all that which was contrary <hi>to his</hi> Holy Mind
+<pb n="12" facs="tcp:110414:7"/>
+                  <hi>and</hi> Will: <hi>and the</hi> Lord <hi>who had</hi> Regard <hi>unto the</hi> Cry <hi>of the</hi> Juſt <hi>in me, which had</hi> Long <hi>been</hi> oppreſſed <hi>as</hi> a Cart <hi>with</hi> ſheaves; <hi>and even</hi> Groaned, and Travelled <hi>to be</hi> delivered, <hi>from under the</hi> Cruel Yoaks of Bondage, <hi>poured forth his</hi> Fury <hi>upon the</hi> Oppreſſor; <hi>which</hi> Burned <hi>as fire againſt</hi> him; at the appearance whereof, the Juſt rejoyced, <hi>and the</hi> Righteous <hi>was</hi> exceeding glad.</p>
+               <p>
+                  <hi>And no ſooner was the</hi> Innocent <hi>and</hi> Juſt <hi>in me deliver'd from under the</hi> hands <hi>of</hi> Pharaoh; <hi>but he perſued vehemently after him; then I</hi> Cryed <hi>unto the</hi> Lord, <hi>and ſaid</hi> — O Lord, how ſhall I be able to ſtand! How ſhall I be able to eſcape! O! Better had it been for me, O Lord, never to have known thy Truth, and thy Way, then after the knowledge thereof, to fall from them, and ſin againſt thee; O Lord, I beſeech thee; let not the Enemy Prevail againſt me; O! let me not fall: <hi>Thus was</hi> I pouring forth my Supplications <hi>to the</hi> Lord; <hi>and</hi> ſpreading <hi>my</hi> Sorrowful Complaints, <hi>be<g ref="char:EOLhyphen"/>fore
+<pb n="13" facs="tcp:110414:7"/>the</hi> Moſt High; <hi>not knowing, how I ſhould be able to</hi> withſtand, <hi>and</hi> eſcape <hi>the</hi> fierce Perſuit <hi>of</hi> Pharaoh, <hi>and his</hi> Strong Hoſt: <hi>For I ſaw</hi> no Way <hi>of</hi> Deli<g ref="char:EOLhyphen"/>verance; <hi>But as it were</hi> Mountaines <hi>of each ſide, and the</hi> red Sea <hi>before; and the</hi> Enemy <hi>even at my heels, as if he were ready to overtake me. Yet the</hi> Lord <hi>in that day</hi> of never to be forgotten Calamity and time of ſore Diſtreſs, <hi>wonderfully wrought</hi> Deliverance, <hi>by his</hi> Mighty hand <hi>and</hi> Out-ſtretched Arm of Power: <hi>So that I can indeed ſay,</hi> the Right hand of the Lord hath Done Valiantly; Pharaoh and all his Hoſt, hath he Overthrown in the red Sea of his fierce Wrath — Glory and Ever<g ref="char:EOLhyphen"/>laſting Praiſes be given unto the Lord for Ever.</p>
+               <p>
+                  <hi>And though the</hi> Lord <hi>had wrought ſo</hi> Great Deliverance <hi>for me, by his</hi> Mighty Hand, <hi>and</hi> Out-ſtretched Arm; <hi>Yet the</hi> Evil One <hi>ſtrove to</hi> raiſe, <hi>and</hi> beget mur<g ref="char:EOLhyphen"/>murings <hi>in me againſt the</hi> Lord; <hi>tempt<g ref="char:EOLhyphen"/>ing me to</hi> Look back <hi>again unto Egypt;
+<pb n="14" facs="tcp:110414:8"/>and</hi> many a time <hi>was</hi> I ready to Look back, <hi>and thinking to</hi> Return again: <hi>And had not the</hi> Dealings <hi>of the Lord been</hi> towards me; <hi>even as</hi> a Tender Father <hi>towards his</hi> Child<g ref="char:punc">▪</g> 
+                  <hi>I had not</hi> Remained in Truth <hi>unto</hi> this Day: <hi>For many times was it with me like</hi> Jonas, <hi>who ſaid,</hi> I do well to be angry unto death; <hi>and the</hi> Enemy <hi>taking all advantages, who was many</hi> times <hi>ſtirring</hi> me <hi>up to</hi> write againſt the Truth; <hi>ſo that I have</hi> ſometimes thought in my heart to for<g ref="char:EOLhyphen"/>ſake it; <hi>and</hi> my Hand <hi>hath been neer</hi> ſetting pen to paper; to write againſt the Truth; <hi>Yea the Enemy had once ſo far</hi> Drawn <hi>out my Eye,</hi> to look <hi>at the</hi> actions <hi>and</hi> behaviour <hi>of ſome,</hi> that were in <hi>Truth</hi> before me, <hi>that it had like to have been my</hi> Fall <hi>and</hi> utter Ruin: <hi>For ſuch ſtruglings were within me concerning the ſame, as if</hi> Life and Death <hi>had been</hi> ſtriving <hi>for the</hi> maſtery. <hi>Yet the</hi> Lord <hi>was pleaſed to let me ſee the</hi> Enemy <hi>who had thus ſtrove to</hi> Work <hi>in me, an</hi> Enmity <hi>againſt the</hi> Truth, <hi>and in</hi> ſome meaſure <hi>brought
+<pb n="15" facs="tcp:110414:8"/>him</hi> under, <hi>and gave me</hi> Victory <hi>over him:</hi> and then I deſired of the Lord, <hi>that</hi> he would judge out the Evil one in all his appearances, <hi>and</hi> Preſerve <hi>and</hi> eſtabliſh me in his bleſſed Truth: <hi>though afterwards, by reaſon of</hi> Many <hi>and</hi> great Exerciſes; <hi>I have often ſaid in my heart,</hi> ſurely I ſhall one day fall by the hand of the Enemy: O Whoſe Tryals! Whoſe Exerciſes! Whoſe Sorrows! and whoſe Afflictions are like unto mine! Was ever any ones Condition like unto my Condition! Surely nay. <hi>And when the</hi> Lord <hi>hath at any time</hi> withdrawn <hi>his</hi> Refreſhing Preſence <hi>from me; then have I ſate</hi> Mourning <hi>as one</hi> Deſolate and Forſaken; <hi>often</hi> wiſhing <hi>that I were in</hi> ſome Solitary Place, <hi>where</hi> no Eye <hi>might</hi> behold me, <hi>&amp; there to</hi> mourn continually <hi>be<g ref="char:EOLhyphen"/>fore the Lord, &amp; to</hi> pour out <hi>my</hi> complaints <hi>before the</hi> Moſt High: <hi>So that I have often ſaid in my heart:</hi> Hath the Lord forgotten to be Gratious? Will he be favour<g ref="char:EOLhyphen"/>able no more? Hath he in Anger ſhut up his Tender Mercies? <hi>Thus was it with me</hi>
+                  <pb n="16" facs="tcp:110414:9"/>many a time; <hi>for</hi> many <hi>were the</hi> Inward <hi>and alſo the</hi> Outward Exerciſes <hi>and</hi> Tryals, <hi>which did attend me: But through the</hi> Tender Mercies <hi>of the</hi> Lord, (<hi>whoſe</hi> tender Care towards me, words cannot expreſs). <hi>have I been hitherto Preſerved, and the more</hi> I conſider <hi>the</hi> Tender Dealings <hi>of his</hi> unſpeakable love <hi>towards</hi> me, the greater Admiration <hi>ariſes in me,</hi> Concerning the ſame; <hi>inſomuch that I have often ſaid,</hi> O Lord, what manner of love is this! where<g ref="char:EOLhyphen"/>with thou haſt Viſited me! <hi>For truely,</hi> O Lord, <hi>among</hi> all <hi>the</hi> ſinful ſons of Men, I have <hi>the moſt</hi> deſerved <hi>to be</hi> made a Monument <hi>of thy</hi> fierce Wrath, <hi>and</hi> ſore Diſpleaſure; <hi>but thy</hi> Mercy <hi>hath been</hi> ſuch <hi>towards</hi> me; <hi>that thou haſt</hi> Spared me <hi>to become</hi> a living Monument <hi>of thy</hi> Tender Mercies, <hi>and to</hi> Publiſh <hi>and</hi> Declare the ſame <hi>unto the</hi> Sons, <hi>and</hi> Daughters of men.</p>
+               <p>
+                  <hi>And though I have been oftentimes like a ſhip</hi> Toſſed to <hi>and</hi> fro, <hi>and</hi> many times <hi>ready to make</hi> ſhipwrack <hi>of</hi> Faith, <hi>and</hi> a good Conſcience, <hi>and the</hi> Bleſſed <hi>and</hi> Ever<g ref="char:EOLhyphen"/>laſting
+<pb n="17" facs="tcp:110414:9"/>Truth <hi>of God: Yet the Lord hath been pleaſed, to ſpeak</hi> Comfortable things <hi>unto my</hi> Soul— O thou toſſed with tem<g ref="char:EOLhyphen"/>peſts! Afflicted, and not Comforted; be<g ref="char:EOLhyphen"/>hold! I will lay thy ſtones with Pretious Colours; and thou ſhalt no more be called Deſolate and Forſaken; for thy Maker is thy Husband; and though for a Moment I have hid my face from thee, yet with ever<g ref="char:EOLhyphen"/>laſting loving kindneſs, have I Viſited thee, which ſhall never Depart from thee: And though in days by-paſt, thou haſt walk<g ref="char:EOLhyphen"/>ed in Rebellion againſt me; yet now ſhalt thou walk before me; and I will Take Delight in thee, to Do thee Good; for I have Removed thine Iniquities from thee, as far as the Eaſt is from the Weſt: And thou ſhalt be an inſtrument in my hand, to turn Tranſgreſſours from their Evil Wayes; for my power will I manifeſt in thy weaknes; that no Fleſh ſhould Glory in my Preſence. <hi>Then ſaid I,</hi> O Lord, if thou wilt Deſtroy, and ſub<g ref="char:EOLhyphen"/>due the Enemy of my Soul, and bring me into Everlaſting Peace with thee; Then
+<pb n="18" facs="tcp:110414:10"/>will I teach Trangreſſours thy Way, and ſin<g ref="char:EOLhyphen"/>ners ſhall be Converted unto thee.</p>
+               <p>
+                  <hi>Now many times when I have been</hi> deeply Exerciſed <hi>and beſought the</hi> Lord <hi>concerning the ſame, ſaying,</hi> O Lord, Wherefore am I thus Exerciſed? And wherefore am I thus Tryed? <hi>the An<g ref="char:EOLhyphen"/>ſwer hath been;</hi> How canſt thou ſpeak unto others Conditions, except thou paſs through the ſame thy ſelf? <hi>then ſaid I,</hi> O Lord, Exerciſe me, and Try me how thou wilt; ſo that I may but in Faith<g ref="char:EOLhyphen"/>fulneſs walk before thee, for my Life is gi<g ref="char:EOLhyphen"/>ven up to ſorve thee, and it is my Whole de<g ref="char:EOLhyphen"/>light to do thy Will; for, O Lord, thou know<g ref="char:EOLhyphen"/>eſt, that it is neither Honour, nor Riches, nor Length of Dayes, nor any External thing which my Soul deſireth of thee, but that to Faithfulneſs, and with joy, I may finiſh my Teſtimony, for thy Holy Name, and Truth, which thou haſt been pleaſed to make me a Partaker of. Now unto the Onely Wiſe, Eternal, Infinite, and Omnipotem, Lord God; be living Praiſes, Honour, Glo<g ref="char:EOLhyphen"/>ry
+<pb n="19" facs="tcp:110414:10"/>and Thankſgiving; for unto him a<g ref="char:EOLhyphen"/>lone are they due, who is God over all, Bleſſed, and Renowned, for ever and ever Amen.</p>
+               <closer>
+                  <signed>Written in the fear of the Lord; as and moved by his Holy Spirit; through one of the Meaneſt of the Lords Peo<g ref="char:EOLhyphen"/>ple; who was once a Servant of Sa<g ref="char:EOLhyphen"/>tan; but through the Tender-Mercies of the Lord, his Servant I am <hi>F. L.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Fleet</hi> Priſon in <hi>London,</hi> the latter end of <date>the 1ſt Moneth 1671.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="20" facs="tcp:110414:11"/>
+            <head>A Tender Invitation OF LOVE UNTO PROFESSORS, &amp;c.</head>
+            <opener>
+               <salute>My Friends,</salute>
+            </opener>
+            <p>I have been one that was <hi>diligently ſeek<g ref="char:EOLhyphen"/>ing the Lord,</hi> among your <hi>dead forms,</hi> and <hi>empty wayes of worſhip;</hi> which can ſatisfie <hi>an hungry Soul,</hi> no more then <hi>Chaff</hi> and <hi>Duſt,</hi> can ſatisfie an <hi>hungry man;</hi>
+               <pb n="21" facs="tcp:110414:11"/>for I muſt tell you plainly, that <hi>Soul ſa<g ref="char:EOLhyphen"/>tisfaction</hi> cannot be had amongſt <hi>you;</hi> for if it could, many Thouſands beſides my ſelf had not come from amongſt you; but would ſtill have remained with you. Wherefore <hi>in True</hi> and <hi>Tender Bowels of unfeigned Love to you all,</hi> am I <hi>Conſtrained</hi> thus <hi>to write unto you;</hi> and ſo much the more, becauſe the <hi>Day ha<g ref="char:EOLhyphen"/>ſtens,</hi> in which it will be ſaid unto <hi>all,</hi> who profeſs <hi>Chriſt</hi> in <hi>Words,</hi> but in <hi>Works</hi> deny him — <hi>Depart from me, I know Ye not, Ye Workers of Iniquity:</hi> What then will become of your <hi>huſky Doctrines,</hi> and <hi>ſin-ſoothing Principles?</hi> who ſeek to <hi>apply,</hi> and <hi>impu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Chriſt's Righteouſ<g ref="char:EOLhyphen"/>neſs</hi> to your ſelves, though <hi>actually ſin<g ref="char:EOLhyphen"/>ners:</hi> For all your <hi>empty Notions, Airy Imaginations,</hi> and <hi>your Crying Lord, Lord,</hi> with your ſelf <hi>Duties</hi> and <hi>Performances;</hi> and <hi>all other your Traſh,</hi> and <hi>Trumpery,</hi> will not any ways avail you <hi>in that Day,</hi> when the <hi>Secrets of all hearts</hi> ſhall be <hi>Judged</hi> by <hi>Chriſt Jeſus,</hi> according to the
+<pb n="22" facs="tcp:110414:12"/>
+               <hi>Goſpel:</hi> and then you will find, that <hi>God</hi> will not be <hi>mocked;</hi> but <hi>ſuch fruits</hi> as you have <hi>Sown, Brought forth,</hi> and <hi>Pleaded for, in your life times,</hi> ſhall you have <hi>a Recompence</hi> of <hi>Reward</hi> for in that <hi>great day;</hi> and <hi>what Sentence ſoever</hi> is then <hi>paſ<g ref="char:EOLhyphen"/>ſed</hi> upon you, <hi>ſhall ſtand;</hi> for from this <hi>Righteous Judge</hi> of <hi>Heaven</hi> and <hi>Earth,</hi> ſhall you have <hi>no appeal</hi> unto <hi>any other.</hi> Therefore while your <hi>Day</hi> and <hi>Time</hi> laſts <hi>Priſe it;</hi> and <hi>Turn</hi> unto the <hi>Gentle Re<g ref="char:EOLhyphen"/>proofs</hi> of <hi>Chriſt Jeſus, (the Light of the World)</hi> in <hi>your own Conſciences;</hi> and then you will not be crying out for want of <hi>Power;</hi> for unto all that <hi>Believe</hi> in, <hi>and Receive</hi> him <hi>(the Light)</hi> he gives <hi>Power</hi> to become the <hi>Sons</hi> and <hi>Daughters of God:</hi> whoſe <hi>Love</hi> is ſo <hi>large;</hi> and whoſe <hi>Mer<g ref="char:EOLhyphen"/>cy's</hi> are <hi>ſo great,</hi> towards the <hi>ſinfull Sons</hi> and <hi>Daughters of men;</hi> that he would have <hi>none to Periſh,</hi> but that <hi>all</hi> might come unto him, and have <hi>Everlaſting Life:</hi> And <hi>for that very end,</hi> doth he <hi>ſo often</hi> appear againſt your <hi>Evil actions,</hi>
+               <pb n="23" facs="tcp:110414:12"/>and <hi>gently Reprove you</hi> for the <hi>ſame,</hi> when no <hi>Eye</hi> ſeeth or <hi>Ear</hi> heareth <hi>you.</hi>
+            </p>
+            <p>
+               <hi>But perhaps ſome may ſay, that this Light, which you called</hi> Quakers <hi>declare, and write ſo much of is but, a Natural light, and not ſufficient to ſave— My friends,</hi> I am one among the many thouſands that witneſs <hi>Salvation</hi> by this <hi>Pure, Holy,</hi> and <hi>Divine Light of Chriſt Jeſus,</hi> which is able to <hi>Save</hi> unto the <hi>Uttermoſt,</hi> all that come unto <hi>God</hi> by the <hi>ſame. And there<g ref="char:EOLhyphen"/>fore,</hi> let me deſire you all, who have any <hi>True Breathings</hi> after <hi>God,</hi> and the <hi>Knowledge</hi> of his <hi>way's,</hi> to come forth out of <hi>all Profesſions,</hi> and lay them aſide for a time; and do but <hi>Give ear</hi> unto, <hi>Regard,</hi> and <hi>diligently Obey</hi> that, which <hi>appears</hi> againſt your <hi>Evil Way's;</hi> and if that <hi>Light of Chriſt Jeſus,</hi> which <hi>we</hi> the <hi>People of</hi> the <hi>Lord</hi> called <hi>Quakers</hi> have <hi>proved, and tryed,</hi> and which hath ſo often <hi>appeared</hi> unto you, to <hi>Diſcover Sin,</hi> and <hi>Manifeſt Iniquity,</hi> in the very <hi>firſt</hi> appearance there<g ref="char:EOLhyphen"/>of; doth not do <hi>ſuch works</hi> that <hi>none elſe</hi>
+               <pb n="24" facs="tcp:110414:13"/>can do; and bring <hi>Salvation</hi> unto <hi>all</hi> that <hi>Believe in,</hi> and <hi>Obey</hi> the <hi>ſame;</hi> then <hi>Believe</hi> it not, but if it doth — O! then <hi>Believe in it,</hi> for the very <hi>works ſake;</hi> &amp; <hi>love Regard,</hi> and <hi>Obey</hi> the very <hi>leaſt appear<g ref="char:EOLhyphen"/>ance</hi> of it; and by ſo doing, you may come to witneſs that ſaying fulfilled in you; <hi>He that is faithfull in alittle ſhall be made Ruler over much.</hi>
+            </p>
+            <p>
+               <hi>But if any ſhould ſay, why are ſo many gone from, and forſaken thoſe Principles, which you called</hi> Quakers <hi>are ſo confident in to be the Truth?</hi> Why, <hi>my Friends,</hi> it is now, as it was in Ages paſt; for many did then as well as now, <hi>turn</hi> their <hi>backs</hi> upon <hi>Truth;</hi> but their ſo doing was not then, neither is it now, or will it be for any a plea, and argument ſufficient, not to receive the <hi>Truth,</hi> becauſe others who have known it, have not been faith<g ref="char:EOLhyphen"/>full unto, but forſaken it: For if becauſe thoſe in <hi>Aſia</hi> had forſaken the <hi>Truth,</hi> (as <hi>Paul</hi> ſaid they had, who ſaid, <hi>all they which are in</hi> Aſia, <hi>are turned away from
+<pb n="25" facs="tcp:110414:13"/>me,</hi> 2 <hi>Tim.</hi> 1.15.) others therefore ſhould have followed their <hi>evil ſteps,</hi> than <hi>Truth</hi> thereby might have come to be buried in Oblivion. Wherefore let not the <hi>Evil Walkings</hi> of any that have received <hi>Truth,</hi> and have not walked faithfully in the ſame, but forſaken it, be as a hinde<g ref="char:EOLhyphen"/>rance unto any one of you in receiving of it; but <hi>Turn unto it,</hi> and <hi>Embrace it,</hi> while your <hi>Day</hi> and <hi>Time</hi> laſts; that ſo you may lay down your heads in <hi>Peace,</hi> when you are to go away hence, and be <hi>no more;</hi> which that you may <hi>all</hi> do, is the hearty deſire of</p>
+            <closer>
+               <dateline>Written the latter end of <date>the firſt, Moneth, 1671.</date>
+               </dateline>
+               <signed>Your aſſured Friend. <hi>F. L.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="26" facs="tcp:110414:14"/>
+            <head>A Tender Invitation OF LOVE Unto the PROPHANE, &amp;c.</head>
+            <opener>
+               <salute>My Friends,</salute>
+            </opener>
+            <p>I Once <hi>lived</hi> and <hi>walked</hi> with you alſo in <hi>all Manner</hi> of <hi>Prophaneneſs;</hi> but the <hi>Lord</hi> who is <hi>rich</hi> in <hi>Mercy,</hi> and <hi>full</hi> of <hi>Goodneſs</hi> and <hi>Truth,</hi> was pleaſed to <hi>pluck me</hi> from amongſt you, <hi>even as a Brand
+<pb n="27" facs="tcp:110414:14"/>pluck't out of the Fire;</hi> and becauſe he hath been pleaſed to <hi>Spare me;</hi> and hath made me to become <hi>a living Monument</hi> of his <hi>Tender Mercy's,</hi> therefore am I-<hi>conſtrained</hi> thus to <hi>Publiſh the ſame;</hi> and indeed while I have a being in this Earthly Tabernacle, <hi>muſt I Declare of,</hi> and <hi>Sound forth the large Love of God,</hi> which he <hi>freely</hi> extends unto <hi>all</hi> the <hi>ſons,</hi> and <hi>Daughters of men;</hi> and at this time is it laid upon me to viſit you alſo, in <hi>True,</hi> and <hi>tender Bowels</hi> of <hi>Love unfeigned;</hi> and to beſeech you <hi>all, to put away</hi> the <hi>Evil</hi> of your <hi>Wayes,</hi> and <hi>Doings,</hi> which have cauſed <hi>a ſeparation</hi> between <hi>God</hi> and your <hi>Immortal Souls</hi>— <hi>O!</hi> That you would a little conſider your <hi>latter end,</hi> and the <hi>ſad Eſtate,</hi> and <hi>Condition</hi> which you are now in; for if the <hi>Lord</hi> ſhould ſay unto <hi>any</hi> one of you; <hi>this night thy ſoul ſhall be required of thee;</hi> how ſad and miſera<g ref="char:EOLhyphen"/>ble would the Eſtate of any ſuch be: Wherefore, <hi>to prevent the ſame,</hi> I be<g ref="char:EOLhyphen"/>ſeech you all, to <hi>Turn unto that,</hi> which
+<pb n="28" facs="tcp:110414:15"/>
+               <hi>maketh manifeſt</hi> your <hi>Evil Doings;</hi> and you will find by ſo doing, that you will not only come <hi>to ſee,</hi> but alſo to <hi>leave off,</hi> and witneſs <hi>Victory over,</hi> and <hi>Sal<g ref="char:EOLhyphen"/>vation from,</hi> your <hi>Evil Words</hi> and <hi>Works.</hi>
+            </p>
+            <p>
+               <hi>But if any ſhould ſay, that, that Eight, which the People called</hi> Quakers <hi>direct all People unto, is a great deluſion, and there<g ref="char:EOLhyphen"/>fore to be avoided.</hi>
+            </p>
+            <p>I anſwer, if that <hi>Light of Chriſt Jeſus,</hi> which ſhews the <hi>Drunkard</hi> he ſhould <hi>not be Drunk,</hi> and the <hi>Swearer</hi> that he ſhould not <hi>Swear,</hi> will alſo, if <hi>loved, followed and obeyed</hi> by them, <hi>Lead</hi> them <hi>out of,</hi> and <hi>Save</hi> them from <hi>their Drunkeneſs,</hi> and <hi>Swearing,</hi> and <hi>all</hi> other their <hi>Abominati<g ref="char:EOLhyphen"/>ons;</hi> why then ſhould it not be <hi>Regard<g ref="char:EOLhyphen"/>ed,</hi> and <hi>Peoples minds</hi> directed unto <hi>it?</hi> for I hope, <hi>none will count</hi> that <hi>Principle</hi> a deluſion, by which any one comes to <hi>Know,</hi> and <hi>Witneſs a Leading out of,</hi> and being <hi>Saved</hi> from <hi>Sin.</hi> But that <hi>Prin<g ref="char:EOLhyphen"/>ciple of Truth</hi> (which the People called <hi>Quakers Direct all</hi> People unto, and <hi>Ad<g ref="char:EOLhyphen"/>moniſh</hi>
+               <pb n="29" facs="tcp:110414:15"/>and <hi>Exhort all</hi> to <hi>follow,</hi> doth not only <hi>Manifeſt</hi> and <hi>Convince</hi> of <hi>Sin,</hi> but alſo is able to <hi>Save</hi> unto the <hi>Uttermoſt,</hi> all that <hi>Belive in,</hi> and <hi>Obey it;</hi> as the Scriptures of Truth do largely Teſtifie concerning the ſame; for that which <hi>con<g ref="char:EOLhyphen"/>vinced the World of Sin, Joh.</hi> 16.8. <hi>lead the Saints into all Truth verſe</hi> 13. <hi>and all things which are Reproved, are made mani<g ref="char:EOLhyphen"/>feſt by the Light; for whatſoever doth make Manifeſt, is Light, Ephe.</hi> 5, 13. but <hi>God is Light, and in him is no darkneſs at all;</hi> 1 <hi>John,</hi> 1, 5. who is able to <hi>Save</hi> unto the <hi>Uttermoſt</hi> all that <hi>Believe in,</hi> and <hi>O<g ref="char:EOLhyphen"/>bey him;</hi> Therefore to <hi>Direct all</hi> Peoples <hi>minds</hi> unto that, which <hi>Shews, Convin<g ref="char:EOLhyphen"/>ces,</hi> and <hi>Reproves</hi> of <hi>Sin</hi> is no <hi>deluſion;</hi> but that <hi>Faith</hi> and <hi>Doctrine</hi> which was <hi>once Delivered</hi> unto, and <hi>Preached</hi> by the <hi>Saints,</hi> which <hi>we</hi> are earneſtly to <hi>Contend</hi> for.</p>
+            <p>But <hi>Friends,</hi> I do believe that none of you will deny, but that when you have <hi>Committed</hi> any <hi>Sin,</hi> you do Perceive <hi>ſome
+<pb n="30" facs="tcp:110414:16" rendition="simple:additions"/>thing to Manifeſt,</hi> and <hi>Diſcover</hi> the <hi>ſame</hi> unto you; which hath made many to ſay; <hi>God forgive me I was drunk ſuch a time;</hi> and <hi>I Swear very oft, at ſuch a time;</hi> though they have afterwards Commited the <hi>like Offences again;</hi> Now the reaſon why your <hi>Sins</hi> are ſo <hi>Prevalent,</hi> and you ſo often <hi>Commit</hi> them again, is becauſe you have <hi>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tender Regard</hi> unto, but <hi>Slight that,</hi> which <hi>ſheweth</hi> you <hi>Sin</hi> in its <hi>firſt appearance;</hi> which if you <hi>did Obey,</hi> then you will not <hi>Act</hi> and <hi>Commit Sin;</hi> the <hi>Wages whereof</hi> is <hi>Death Eternal.</hi> Now if any would <hi>a void,</hi> and <hi>Eſcape</hi> that <hi>Death,</hi> which is the <hi>Wages</hi> and <hi>Reward</hi> of <hi>Sin;</hi> let them <hi>Turn,</hi> and <hi>joyn</hi> unto that <hi>Pure Principle of God in themſelves,</hi> which <hi>ne<g ref="char:EOLhyphen"/>ver Conſents</hi> unto the <hi>leaſt motion</hi> of <hi>Sin;</hi> but as hath been ſaid before, <hi>appears</hi> againſt the <hi>Firſt Motion</hi> of it; for <hi>God</hi> hath placed <hi>a Witneſs</hi> for himſelf <hi>in every Man,</hi> and <hi>Woman;</hi> which will <hi>Teach to do juſtly, to love Mercy,</hi> and <hi>to Walk Humbly before God.</hi> Wherefore <hi>Geaſe to
+<pb n="31" facs="tcp:110414:16" rendition="simple:additions"/>do Evil, Learn to do Well; amend your Evil Wayes,</hi> and <hi>put away the Evil of your Doings; and let the Time by-paſt ſuffice; and Turn unto the Lord, and he will have Mercy upon you, and to our God, who will abundantly Pardon.</hi>
+            </p>
+            <closer>
+               <signed>Written by one (that heartily deſires that none might ſin out their day, but Ob<g ref="char:EOLhyphen"/>tain Mercy and Salvation by Chriſt Jeſus) who is your Aſſured Friend. <hi>F. L.</hi>
+               </signed>
+               <dateline>The latter end of <date>the 1ſt Moneth, 1671.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
